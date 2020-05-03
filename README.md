@@ -25,8 +25,7 @@ You can perform trigonometric, exponential & logarithmic functions along with th
 ## Suggestions and Feedback
 Send us your valuable suggestion and feedback at:- shettyganeshprasad1998@gmail.com 
 
-## Project Team Members
-* [**Shetty Ganeshprasad**](https://github.com/ganeshShetty98/)
+
 
 
 
