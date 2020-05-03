@@ -7,10 +7,10 @@ You can perform trigonometric, exponential & logarithmic functions along with th
 
 ## Website's Screenshot
 <p>
-  <img src="https://firebasestorage.googleapis.com/v0/b/sdmcet-assist.appspot.com/o/GitHub%20Readme%20App%20Screenshot%2Fbasic%20calc.jpg?alt=media&token=9a2ae1a4-02b5-4cff-baae-9c4169127728" width="300">
+  <img src="https://firebasestorage.googleapis.com/v0/b/sdmcet-assist.appspot.com/o/GitHub%20Readme%20App%20Screenshot%2Fbasic%20calc.jpg?alt=media&token=9a2ae1a4-02b5-4cff-baae-9c4169127728" width="450">
   
   
-   <img src="https://firebasestorage.googleapis.com/v0/b/sdmcet-assist.appspot.com/o/GitHub%20Readme%20App%20Screenshot%2Fscientific%20calc.jpg?alt=media&token=6c45e1ca-fd43-4ae5-abb5-79a6afee00c7" width="300">
+   <img src="https://firebasestorage.googleapis.com/v0/b/sdmcet-assist.appspot.com/o/GitHub%20Readme%20App%20Screenshot%2Fscientific%20calc.jpg?alt=media&token=6c45e1ca-fd43-4ae5-abb5-79a6afee00c7" width="450">
   
 </p>
 
