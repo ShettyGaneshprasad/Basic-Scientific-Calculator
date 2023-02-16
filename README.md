@@ -3,7 +3,7 @@ This is a simple scientific calculator made using HTML,CSS & JS.<br>
 You can perform trigonometric, exponential & logarithmic functions along with the normal arithmetic function.
 
 # To use this Web Calculator goto:
-* [**To check this Calculator click here**](https://ganeshshetty98.github.io/Basic-Scientific-Calculator/basicCalculator.html) 
+* [**To check this Calculator click here**](https://shettyganeshprasad.github.io/Basic-Scientific-Calculator/basicCalculator.html) 
 
 ## Website's Screenshot
 <p>
